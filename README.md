@@ -30,16 +30,6 @@
 6. Click `Link`
 7. Visit `https://YOUR-DEPLOY/api/badge` in your browser
 
-## 🔩 Self Hosting
-
-1. Clone [this repository](https://github.com/igorkowalczyk/wakatime-hours) `git clone https://github.com/IgorKowalczyk/wakatime-hours`
-2. Create new file named `.env` Remember - the file is super secret, better to not share it.
-3. In `.env` file set this values:
-   - `WAKATIME_API_KEY` - Your Wakatime API Key
-   - `PORT` - Port on which the API will be available (optional, default: `8080`)
-4. Run `deno task dev` to start the project in development mode or `deno task start` to run the project in production mode.
-5. Visit `http://localhost:8080` in your browser _(or `http://localhost:${PORT}` if you set custom port)_
-
 ## ▲ Hosting with Vercel
 
 <!-- prettier-ignore-start -->
