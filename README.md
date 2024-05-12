@@ -17,7 +17,6 @@
 
 ---
 
-
 > [!NOTE]
 > Don't forget to replace example `YOUR-DEPLOY` parameter with real value.
 
