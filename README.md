@@ -17,8 +17,6 @@
 
 ---
 
-> [!IMPORTANT]
-> In order to display your statistics you need to host this API yourself, for this I recommend using [Deno Deploy](https://deno.com/deploy).
 
 > [!NOTE]
 > Don't forget to replace example `YOUR-DEPLOY` parameter with real value.
